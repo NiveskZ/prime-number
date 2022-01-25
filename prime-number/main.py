@@ -1,9 +1,9 @@
 print("Hello World")
 
 # %%
-# Start from 2, because that the first prime number.
 benchmark_comparisons = 0
 
+# Start from 2, because that the first prime number.
 prime_numbers = [2]
 
 for i in range(3, 1000, 2):
